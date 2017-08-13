@@ -1,3 +1,3 @@
-## BarbBlock-filter-list
+## BarbBlock filter list
 
 This list is designed to avoid installing just another addon called [BarbBlock](https://github.com/paulgb/BarbBlock) which not adds any layer to security. So I decided to publish it's list which you can use for existent solutions like uMatrix, uBlock, ....
