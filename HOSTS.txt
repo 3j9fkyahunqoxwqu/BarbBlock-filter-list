@@ -51,6 +51,8 @@
 127.0.0.1 functionalclam.com
 127.0.0.1 futuristicfairies.com
 127.0.0.1 fuzzyflavor.com
+127.0.0.1 foamybox.com
+127.0.0.1 dcma.com
 127.0.0.1 ga87z2o.com
 127.0.0.1 giddycoat.com
 127.0.0.1 gorgeousground.com

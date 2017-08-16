@@ -51,6 +51,8 @@
 0.0.0.0 functionalclam.com
 0.0.0.0 futuristicfairies.com
 0.0.0.0 fuzzyflavor.com
+0.0.0.0 foamybox.com
+0.0.0.0 dcma.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 giddycoat.com
 0.0.0.0 gorgeousground.com
