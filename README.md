@@ -7,7 +7,7 @@ This list blocks requests to sites which have used legal threats to remove thems
 [![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
 ## Project goal?
-This list is designed to avoid installing just another addon called [BarbBlock](https://github.com/paulgb/BarbBlock) which not adds any layer to security. So I decided to publish it's list which you can use for existent solutions like uMatrix, uBlock, ....
+This list is designed to avoid installing just another addon like e.g. [BarbBlock](https://github.com/paulgb/BarbBlock) which not adds any layer to security. So I decided to publish it's list which you can use for existent solutions like uMatrix, uBlock,...
 
 
 Backstory:
